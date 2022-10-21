@@ -1,0 +1,42 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  text-align: left;
+  margin: 20px;
+  background: scroll;
+  background-color: rgb(37, 237, 237);
+  
+}
+section{
+  margin-left: 40px;
+}
+h1{
+  margin-left: 40px;
+  font-size: 60px;
+}
+h3{
+  font-weight: bold;
+}
+.par1{
+  font-style: italic;
+}
+#menuBtn {
+  width: 40px;
+  height: 50px;
+  background: #009688;
+  text-align: center;
+  position: fixed;
+  right: 30px;
+  top: 20px;
+  border-radius: 3px;
+  z-index: 3;
+  cursor: pointer;
+}
+#menuBtn img {
+  width: 20px;
+  height: 20px;
+  margin-top: 15px;
+}
